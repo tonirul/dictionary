@@ -28,7 +28,7 @@ project/
 │── README.md # Documentation
 
 yaml
-Copy code
+ 
 
 ---
 
@@ -63,12 +63,12 @@ Get a free API key from Google AI Studio.
 In the code, locate this section in index.html:
 
 javascript
-Copy code
+ 
 const apiKey = "";
 Replace with your key:
 
 javascript
-Copy code
+ 
 const apiKey = "YOUR_GEMINI_API_KEY_HERE";
 Now Bengali translations will appear under each word definition.
 
@@ -93,7 +93,7 @@ Try typing ap and select from suggestions like apple.
 
 📑 Example API Response (Dictionary API)
 json
-Copy code
+ 
 [
   {
     "word": "hello",
